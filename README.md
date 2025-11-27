@@ -1,7 +1,7 @@
 # 📊 Telecom Customer Churn Analysis
 
 This repository contains a complete analysis of telecom customer churn
-using Python and Jupyter Notebook. The project explores why customers
+using Python and Google Colab. The project explores why customers
 leave the service and identifies key patterns that influence churn
 behavior.
 
@@ -14,8 +14,6 @@ focuses on:
 -   Exploring customer behavior through visualizations
 -   Understanding service-related and contract-related churn factors
 -   Generating insights from demographic and usage patterns
-
-Notebook: **Telecom_Customer_Churn_Analysis.ipynb**
 
 ## 🗂️ Dataset Description
 
@@ -73,17 +71,10 @@ Includes:
 
 ## 📎 Running the Project
 
-``` bash
-git clone https://github.com/yourusername/telecom-customer-churn-analysis.git
-cd telecom-customer-churn-analysis
-jupyter notebook Telecom_Customer_Churn_Analysis.ipynb
-```
+Open the notebook using the provided link, copy it to your workspace, import the dataset, and you are ready to execute the full analysis.
 
-## 📌 Future Improvements
+Notebook: [**Telecom_Customer_Churn_Analysis.ipynb**](https://colab.research.google.com/drive/1Lw5a3JoYD8IPXvKdTHrgKqYIFUFdfBrY?usp=sharing)
 
--   Add ML churn prediction models\
--   Build a Streamlit dashboard\
--   Deploy model as a web app
 
 ## 🤝 Contribution
 
