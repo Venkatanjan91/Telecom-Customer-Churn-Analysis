@@ -63,10 +63,10 @@ Includes:
 
 ## 🔍 Key Insights
 
--   Month-to-Month contract customers churn the most\
--   Lack of OnlineSecurity, TechSupport, or Backup increases churn\
--   Fiber optic users show higher churn\
--   Tenure below 6 months has high churn probability\
+-   Month-to-Month contract customers churn the most
+-   Lack of OnlineSecurity, TechSupport, or Backup increases churn
+-   Fiber optic users show higher churn
+-   Tenure below 6 months has high churn probability
 -   Payment method 'Electronic Check' correlates with higher churn
 
 ## 📎 Running the Project
